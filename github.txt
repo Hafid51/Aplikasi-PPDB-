@@ -8,3 +8,5 @@ Tentang Aplikasi :
 2. Fitur yang terdapat  di aplikasi ini yaitu mendaftarkan, menghapus, memperbarui dan menampilkan sebuah data dari database.
 3. Aplikasi ini penginputan secara manual (berarti cuman sisi admin saja).
 4. Aplikasi ini di buat sesederhana mungkin
+
+*Aplikasi ini masih belum menggunakan Admin untuk versi 1 nya
