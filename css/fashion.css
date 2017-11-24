@@ -1,0 +1,16 @@
+header h2 {
+	font-family: Pacofico;
+	font-weight: bold;
+}
+.btn1 {
+	margin-top: 10px;
+	margin-left: 10%;
+}
+table {
+	text-align: center;
+	margin-top: 1%;	
+	margin-left: 10%;
+}
+table tr th {
+	text-align: center;
+}
